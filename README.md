@@ -1,4 +1,5 @@
 本工具用于电阻凑算，使用Python3开发，GUI使用Tkinter，无第三方依赖。
+
 `电阻凑算工具.tk` 是[Tkinter布局助手](https://www.pytk.net/)导出的布局文件，可重新导入进行修改。
 
 # 使用方法
